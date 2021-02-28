@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#page-container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.m5 {
+    margin: 5px;
+}
+
+.heading {
+    margin: 10px;
+}
+
+.note-div {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    width: 50px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#random-play, #record-song, #record-play {
+    cursor: pointer;
+}
+
